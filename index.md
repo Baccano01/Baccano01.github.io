@@ -16,6 +16,7 @@ I build and optimize systems at the intersection of (non-exhaustive list):
 - Multicore and Parallel Programming
 - Computer Network Perforamance (Queuing Theory)
 - Advanced Algorithms
+  
 ---
 
 ## 🚀 Projects
