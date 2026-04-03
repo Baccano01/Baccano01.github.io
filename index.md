@@ -5,7 +5,7 @@ title: Home
 
 # Jofeth Abello
 
-[Home](/) | [Projects](/projects) | [Research](/research) | [Blog](/blog)
+[Home](/) | [Projects](/projects) | [Blog](/blog)
 
 Machine Learning Engineer | Artificial Intelligence (AI) & Systems Focus
 
