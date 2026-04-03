@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+[Home](/) | [Projects](/projects) | [Blog](/blog)
 
 # Projects
 
@@ -40,6 +41,7 @@ both line-of-sight (LOS) and NLOS scenarios with 35.6 and 66.78 cm mean euclidea
 **Stack:** Python, MicroPython, Raspberry Pi, Antennas Xbee
 
 [AAS Competition Website](/https://cansatcompetition.com/)
+
 - Ground command&control subsytem software engineer, [Sapienza Space Team](https://www.sasa-aerospace.it/space-team/).
 - Telemetry and command communication with CanSat using Xbee.
 - Fuzzy-Testing with MicroPython running on Raspberry Pi Pico.
