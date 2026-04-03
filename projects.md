@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+[Home](/) | [Projects](/projects) | [Blog](/blog)
 
 # Projects
 
