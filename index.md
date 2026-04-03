@@ -2,10 +2,11 @@
 layout: default
 title: Home
 ---
+[Home](/) | [Projects](/projects) | [Blog](/blog)
 
 MSc in Computer Science Student, [Sapienza University of Rome](https://www.uniroma1.it/it/).
 
-I am an MSc in Computer Science student at Sapienza University of Rome. I received my BSc in Computer Science at Sapienza University of Rome (30/30 cum laude) and was an Assitant Researcher at [Sapienza Prometheus Laboratory](https://prometheus.di.uniroma1.it/) which is one of the university's [Computer Science Department Research Labs](https://www.di.uniroma1.it/it/laboratori-di-ricerca).
+I am an MSc in Computer Science student at Sapienza University of Rome. I received my BSc in Computer Science at Sapienza University of Rome (30/30 cum laude) and was an Assistant Researcher at [Sapienza Prometheus Laboratory](https://prometheus.di.uniroma1.it/) which is one of the university's [Computer Science Department Research Labs](https://www.di.uniroma1.it/it/laboratori-di-ricerca).
 
 Other current extracurricular roles:
 - External Research Collaborator at Sapienza Prometheus Laboratory.
