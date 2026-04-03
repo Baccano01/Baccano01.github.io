@@ -16,7 +16,7 @@ I build and optimize systems at the intersection of (non-exhaustive list):
 - Concurrent Systems
 - Advanced Computer Architectures
 - Multicore and Parallel Programming
-- Computer Network Perforamance (Queuing Theory)
+- Computer Networks Performance (Queuing Theory)
 - Advanced Algorithms
   
 ---
