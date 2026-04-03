@@ -2,3 +2,5 @@
 theme: jekyll-theme-minimal
 title: Jofeth Abello
 description: Portfolio, research, and technical blog
+github:
+  is_project_page: false
