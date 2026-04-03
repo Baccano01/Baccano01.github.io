@@ -1,22 +1,19 @@
 ---
 theme: jekyll-theme-minimal
 title: Jofeth Abello
-description: Portfolio, research, and technical blog
+description: Portfolio, research, and technical blog</br></br>
 
+<strong>Navigation</strong><br>
 <a href="/">Home</a><br>
 <a href="/projects">Projects</a><br>
 <a href="/blog">Blog</a><br><br>
+<a href="https://github.com/Baccano01">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"> GitHub
+</a><br>
 
-  
-<p>
-  <a href="https://github.com/Baccano01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" style="margin-right:10px;" />
-  </a>
-
-  <a href="www.linkedin.com/in/jofethabello" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
-  </a>
-</p>
+<a href="www.linkedin.com/in/jofethabello">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"> LinkedIn
+</a>
 
 github:
   is_project_page: false
