@@ -5,6 +5,8 @@ title: Home
 
 # Jofeth Abello
 
+[Home](/) | [Projects](/projects) | [Research](/research) | [Blog](/blog)
+
 Machine Learning Engineer | Artificial Intelligence (AI) & Systems Focus
 
 I build and optimize systems at the intersection of (non-exhaustive list):
