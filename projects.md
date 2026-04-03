@@ -30,6 +30,7 @@ title: Projects
 both line-of-sight (LOS) and NLOS scenarios with 35.6 and 66.78 cm mean euclidean distances, respectively.
 - Discovered minor bug in a popular open-source data mining library [PyClustering](https://github.com/annoviko/pyclustering) with **1.2k Github stars**.
 - Analyzed the feasibility of synthetic CSI fingerprints.
+  
 ---
 
 ## American Astronautical Society (AAS) International CanSat Competition 2026
