@@ -8,7 +8,7 @@ title: Projects
 
 
 ## High-Performance & Distributed Deep Learning
-**Status**: Ongoing
+**Status**: Ongoing.
 
 **Stack:** C++, PyTorch, CUDA, MPI
 
@@ -36,7 +36,7 @@ both line-of-sight (LOS) and NLOS scenarios with 35.6 and 66.78 cm mean euclidea
 
 ## American Astronautical Society (AAS) International CanSat Competition 2026
 
-**Status:** **Qualified** among 20 selected international teams over 67 international teams.
+**Status:** **7th place Globally and 1st in Europe** out of 86 international teams.
 
 **Stack:** Python, MicroPython, Raspberry Pi, Antennas Xbee
 
