@@ -6,7 +6,7 @@ title: Home
 
 MSc in Computer Science Student, [Sapienza University of Rome](https://www.uniroma1.it/it/).
 
-I am an MSc in Computer Science student at Sapienza University of Rome. I received my BSc in Computer Science at Sapienza University of Rome (30/30 cum laude) and was an Assistant Researcher at [Sapienza Prometheus Laboratory](https://prometheus.di.uniroma1.it/) which is one of the university's [Computer Science Department Research Labs](https://www.di.uniroma1.it/it/laboratori-di-ricerca).
+I am an MSc in Computer Science student at Sapienza University of Rome. I received my BSc in Computer Science at Sapienza University of Rome (110/110 cum laude) and was an Assistant Researcher at [Sapienza Prometheus Laboratory](https://prometheus.di.uniroma1.it/) which is one of the university's [Computer Science Department Research Labs](https://www.di.uniroma1.it/it/laboratori-di-ricerca).
 
 Other current extracurricular roles:
 - External Research Collaborator at Sapienza Prometheus Laboratory.
@@ -28,6 +28,7 @@ I build and optimize systems at the intersection of (non-exhaustive list):
 ---
 
 ## News:
+- (07 Jun 2026) I'm happy to announce that our team Sapienza Space Team has achieved 7th place out of international 86 competitors and 1st in Europe in the American Astronautical Society (AAS) 2026 CanSat Competition. 
 - (04 Apr 2026) I'm happy to announce that my bachelor thesis _Practical CNN-based Single AP Indoor Positioning via Time Series CSI Phase Images: An Investigation into VAE Synthetic CSI Phase Images Viability_ is in preparation for paper submission.
 - (11 Mar 2026) I'm happy to announce our Sapienza Space Team qualified as **one of 20 international teams** to compete in the [AAS CanSat Competition](https://cansatcompetition.com/mission.html), ranking 25th/67 globally in Preliminary Design Review.
 - (31 Jan - 1 Feb 2026) I'm happy to announce that I attended [FOSDEM'26](https://fosdem.org/2026/) at ULB Solbosch Campus, in Brussels, Belgium; where I acquired insights and expanded my horizon on Software Performance and eBPF from researchers and big tech professionals from CERN, Cisco, DataDog, amongst others.
